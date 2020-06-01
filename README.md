@@ -15,10 +15,11 @@ C++语言教程
     4_sqrt.cpp: 平方根
     5_fun.cpp: 函数调用
     6_return.cpp: 返回值
-    regoin.cpp：双冒作用域
-    enhance.cpp: C++比c的强大
+    c_enhance.cpp: c的强大
+    c++_enhance.cpp: c++的强大
     regoin.cpp: ：：的作用域
     using.cpp: using编译指令
+    name_use.cpp: namespace命名空间
 
 2_type:
     数据类型
