@@ -23,6 +23,8 @@ C++语言教程
     const.cpp: const类型
     quote.cpp: 引用
     transmit.cpp: 参数传递
+    p_quote.cpp: 指针引用
+    const_quote.cpp: 常数引用
 
 2_type:
     数据类型
