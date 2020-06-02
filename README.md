@@ -20,6 +20,8 @@ C++语言教程
     regoin.cpp: ：：的作用域
     using.cpp: using编译指令
     name_use.cpp: namespace命名空间
+    const.cpp: const类型
+    quote.cpp: 引用
 
 2_type:
     数据类型
