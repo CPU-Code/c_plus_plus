@@ -22,6 +22,7 @@ C++语言教程
     name_use.cpp: namespace命名空间
     const.cpp: const类型
     quote.cpp: 引用
+    transmit.cpp: 参数传递
 
 2_type:
     数据类型
