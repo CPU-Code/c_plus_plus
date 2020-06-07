@@ -48,6 +48,7 @@ C++语言教程
     复合类型
 
     1_array.cpp: 数组
+    string.cpp: 静态数组，strlen计算长度
 
 9_class
 
