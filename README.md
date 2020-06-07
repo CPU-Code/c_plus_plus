@@ -52,6 +52,7 @@ C++语言教程
     read_string.cpp: 读取多个字符串的问题
     getline.cpp: 使用getline读取多个单词
     get.cpp:  使用get（）读取多个单词
+    numstr.cpp: 号输入 和 行输入
 
 9_class
 
