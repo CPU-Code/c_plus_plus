@@ -5,28 +5,26 @@ C++语言教程
 
 ## 文件说明
 
-first:
-    初次接触C++
+[first: 初次接触C++](https://gitee.com/cpu_code/ccourse/blob/master/first)
 
-
-test: 
 * [hello.cpp: 输出信息](https://gitee.com/cpu_code/ccourse/blob/master/first/hello.cpp)
 * [first.cpp: 输出](https://gitee.com/cpu_code/ccourse/blob/master/first/first.cpp)
-* 2_var.cpp: 定义变量
+test:
+* [2_var.cpp: 定义变量](first/2_var.cpp)
 * 3_inport.cpp: 输入
 * 4_sqrt.cpp: 平方根
 * 5_fun.cpp: 函数调用
 * 6_return.cpp: 返回值
 * c_enhance.cpp: c的强大
-    c++_enhance.cpp: c++的强大
-    regoin.cpp: ：：的作用域
-    using.cpp: using编译指令
-    name_use.cpp: namespace命名空间
-    const.cpp: const类型
-    quote.cpp: 引用
-    transmit.cpp: 参数传递
-    p_quote.cpp: 指针引用
-    const_quote.cpp: 常数引用
+* c++_enhance.cpp: c++的强大
+* regoin.cpp: ：：的作用域
+* using.cpp: using编译指令
+* name_use.cpp: namespace命名空间
+* const.cpp: const类型
+* quote.cpp: 引用
+* transmit.cpp: 参数传递
+* p_quote.cpp: 指针引用
+* const_quote.cpp: 常数引用
 
 2_type:
     数据类型
