@@ -5,17 +5,19 @@ C++语言教程
 
 ## 文件说明
 
-1_first:
+first:
     初次接触C++
 
-    hello.cpp: 输出信息
-    1_first.cpp: 输出
-    2_var.cpp: 定义变量
-    3_inport.cpp: 输入
-    4_sqrt.cpp: 平方根
-    5_fun.cpp: 函数调用
-    6_return.cpp: 返回值
-    c_enhance.cpp: c的强大
+
+test: 
+* [hello.cpp: 输出信息](https://gitee.com/cpu_code/ccourse/blob/master/first/first.cpp)
+* 1_first.cpp: 输出
+* 2_var.cpp: 定义变量
+* 3_inport.cpp: 输入
+* 4_sqrt.cpp: 平方根
+* 5_fun.cpp: 函数调用
+* 6_return.cpp: 返回值
+* c_enhance.cpp: c的强大
     c++_enhance.cpp: c++的强大
     regoin.cpp: ：：的作用域
     using.cpp: using编译指令
@@ -48,11 +50,12 @@ C++语言教程
     复合类型
 
     1_array.cpp: 数组
-    string.cpp: 静态数组，strlen计算长度
+    strlen.cpp: 静态数组，strlen计算长度
     read_string.cpp: 读取多个字符串的问题
     getline.cpp: 使用getline读取多个单词
     get.cpp:  使用get（）读取多个单词
     numstr.cpp: 号输入 和 行输入
+    string.cpp: 使用string类
 
 9_class
 
