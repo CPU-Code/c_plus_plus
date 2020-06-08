@@ -1,64 +1,67 @@
 # C++_course
 
 ## 介绍
-C++语言教程
+C++语言教程：C语言的扩展、数组、string、结构体、指针、枚举、控制语句、函数、对象、类、继承、重用、友元、异常、STL
 
 ## 文件说明
 
-test:
 [first: 初次接触C++](first)
 
-* [hello.cpp: 输出信息](https://gitee.com/cpu_code/ccourse/blob/master/first/hello.cpp)
-* [first.cpp: 输出](https://gitee.com/cpu_code/ccourse/blob/master/first/first.cpp)
-test:
-* [2_var.cpp: 定义变量](first/2_var.cpp)
-* 3_inport.cpp: 输入
-* 4_sqrt.cpp: 平方根
-* 5_fun.cpp: 函数调用
-* 6_return.cpp: 返回值
-* c_enhance.cpp: c的强大
-* c++_enhance.cpp: c++的强大
-* regoin.cpp: ：：的作用域
-* using.cpp: using编译指令
-* name_use.cpp: namespace命名空间
-* const.cpp: const类型
-* quote.cpp: 引用
-* transmit.cpp: 参数传递
-* p_quote.cpp: 指针引用
-* const_quote.cpp: 常数引用
+* [hello.cpp: 输出信息](first/hello.cpp)
+* [first.cpp: 输出](first/first.cpp)
+* [var.cpp: 定义变量](first/var.cpp)
+* [inport.cpp: 输入](first/inport.cpp)
+* [sqrt.cpp: 平方根](first/sqrt.cpp)
+* [fun.cpp: 函数调用](first/fun.cpp)
+* [return.cpp: 返回值](first/return.cpp)
+* [c_enhance.cpp: c的强大](first/c_enhance.cpp)
+* [c++_enhance.cpp: c++的强大](first/c++_enhance.cpp)
+* [regoin.cpp: ：：的作用域](first/regoin.cpp)
+* [using.cpp: using编译指令](first/using.cpp)
+* [name_use.cpp: namespace命名空间](first/name_use.cpp)
+* [const.cpp: const类型](first/const.cpp)
+* [quote.cpp: 引用](first/quote.cpp)
+* [transmit.cpp: 参数传递](first/transmit.cpp)
+* [p_quote.cpp: 指针引用](first/p_quote.cpp)
+* [const_quote.cpp: 常数引用](first/const_quote.cpp)
+ 
+* [.cpp: 模板](first/.cpp)
 
-2_type:
-    数据类型
+[type: 数据类型](type)
 
-    1_length.cpp: 数据长度
-    2_exceed.cpp: 溢出
-    3_decimal.cpp: 十进制输出
-    4_base.cpp: 进制
-    5_chartype.cpp: 字符
-    6_ascii.cpp: ASCII码
-    7_escape.cpp:转义字符
-    8_float.cpp: 浮点数
-    9_float_add.cpp: 精度
-    10_arith.cpp: 算术
-    11_division.cpp: 除法问题
-    12_remainder.cpp: 取余
-    13_changes.cpp: 数字转换
-    14_strong_turn.cpp: 强制转换
+* [length.cpp: 数据长度](type/length.cpp)
+* [exceed.cpp: 溢出](type/exceed.cpp)
+* [decimal.cpp: 十进制输出](type/decimal.cpp)
+* [base.cpp: 进制](type/base.cpp)
+* [chartype.cpp: 字符](type/chartype.cpp)
+* [ascii.cpp: ASCII码](type/ascii.cpp)
+* [escape.cpp:转义字符](type/escape.cpp)
+* [float.cpp: 浮点数](type/float.cpp)
+* [float_add.cpp: 精度](type/float_add.cpp)
+* [arith.cpp: 算术](type/arith.cpp)
+* [division.cpp: 除法问题](type/division.cpp)
+* [remainder.cpp: 取余](type/remainder.cpp)
+* [changes.cpp: 数字转换](type/changes.cpp)
+* [strong_turn.cpp: 强制转换](type/strong_turn.cpp)
 
-3_complex_type
-    复合类型
+* [.cpp: 模板](type/.cpp)
 
-    1_array.cpp: 数组
-    strlen.cpp: 静态数组，strlen计算长度
-    read_string.cpp: 读取多个字符串的问题
-    getline.cpp: 使用getline读取多个单词
-    get.cpp:  使用get（）读取多个单词
-    numstr.cpp: 号输入 和 行输入
-    string.cpp: 使用string类
+[complex_type: 复合类型](complex_type)
 
-9_class
+* [array.cpp: 数组](complex_type/array.cpp)
+* [strlen.cpp: 静态数组，strlen计算长度](complex_type/strlen.cpp)
+* [read_string.cpp: 读取多个字符串的问题](complex_type/read_string.cpp)
+* [getline.cpp: 使用getline读取多个单词](complex_type/getline.cpp)
+* [get.cpp:  使用get（）读取多个单词](complex_type/get.cpp)
+* [numstr.cpp: 号输入 和 行输入](complex_type/numstr.cpp)
+* [string.cpp: 使用string类](complex_type/string.cpp)
 
-    1_class_interface.h：类接口
-    2_class_interface.cpp：类实现
-    3_use_class.cpp：类使用
+* [.cpp: 模板](complex_type/.cpp)
 
+[class: 类](class)
+
+* [class_interface.h：类接口](class/class_interface.h)
+* [class_interface.cpp：类实现](class/class_interface.cpp)
+* [use_class.cpp：类使用](class/use_class.cpp)
+
+* [.cpp: 模板](class/.cpp)
