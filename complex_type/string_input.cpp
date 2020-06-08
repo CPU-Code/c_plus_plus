@@ -1,7 +1,7 @@
 /*
  * @Author: cpu_code
  * @Date: 2020-06-08 16:48:16
- * @LastEditTime: 2020-06-08 16:51:22
+ * @LastEditTime: 2020-06-08 17:32:58
  * @FilePath: \ccourse\complex_type\string_input.cpp
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
@@ -10,7 +10,6 @@
 #include <iostream>
 #include <string>               // make string class available
 #include <cstring>              // C-style string library
-
 
 /**
  * @function: 数组和string的长度问题
