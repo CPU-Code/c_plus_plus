@@ -1,7 +1,7 @@
 /*
  * @Author: cpu_code
  * @Date: 2020-06-08 16:26:26
- * @LastEditTime: 2020-06-08 16:31:00
+ * @LastEditTime: 2020-06-08 16:33:42
  * @FilePath: \ccourse\complex_type\strcat_cpy.cpp
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
@@ -40,8 +40,10 @@ int main()
     int len1 = str1.size();     // obtain length of str1
     int len2 = strlen(charr1);  // obtain length of charr1
  
-    cout << "str1 ==  " << str1 << " len1的长度 ==  " << len1 << endl;
-    cout << "charr1 == " << charr1 << " len2的长度 ==  " << len2 << endl;
+    cout << "str1 ==  " << str1 << endl;
+    cout << " len1的长度 ==  " << len1 << endl;
+    cout << "charr1 == " << charr1 << endl;
+    cout << " len2的长度 ==  " << len2 << endl;
 
     // cin.get();
 
@@ -49,6 +51,8 @@ int main()
 }
 
 /*
-str1 ==  panther paste len1的长度 ==  13
-charr1 == jaguar juice len2的长度 ==  12
+str1 ==  panther paste
+ len1的长度 ==  13
+charr1 == jaguar juice
+ len2的长度 ==  12
 */
