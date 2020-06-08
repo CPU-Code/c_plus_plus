@@ -1,12 +1,12 @@
 /*
  * @Author: cpu_code
  * @Date: 2020-06-08 13:32:37
- * @LastEditTime: 2020-06-08 13:39:49
+ * @LastEditTime: 2020-06-08 13:43:43
  * @FilePath: \ccourse\complex_type\string_add.cpp
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
  */ 
-// strtype2.cpp ? assigning, adding, and appending
+
 #include <iostream>
 #include <string>               // make string class available
 
