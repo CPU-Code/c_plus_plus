@@ -10,8 +10,8 @@ first:
 
 
 test: 
-* [hello.cpp: 输出信息](https://gitee.com/cpu_code/ccourse/blob/master/first/first.cpp)
-* 1_first.cpp: 输出
+* [hello.cpp: 输出信息](https://gitee.com/cpu_code/ccourse/blob/master/first/hello.cpp)
+* [first.cpp: 输出](https://gitee.com/cpu_code/ccourse/blob/master/first/first.cpp)
 * 2_var.cpp: 定义变量
 * 3_inport.cpp: 输入
 * 4_sqrt.cpp: 平方根
