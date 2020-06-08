@@ -1,8 +1,8 @@
 /*
  * @Author: cpu_code
  * @Date: 2020-06-07 21:22:47
- * @LastEditTime: 2020-06-08 10:30:59
- * @FilePath: \ccourse\3_complex_type\strtype.cpp
+ * @LastEditTime: 2020-06-08 13:32:28
+ * @FilePath: \ccourse\complex_type\strtype.cpp
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
  */ 
@@ -36,6 +36,7 @@ int main()
     cout << "charr2 == " << charr2 << endl;
     cout << "str1 == " << str1 << endl;
     cout << "str2 == " << str2 << endl;
+    
     cout << "charr2[2] ==  " << charr2[2] << endl;
     cout << "str2[2] == " << str2[2] << endl;   
 
