@@ -60,6 +60,7 @@ C++语言教程：C语言的扩展、数组、string、结构体、指针、枚�
 * [numstr.cpp: 号输入 和 行输入](complex_type/numstr.cpp)
 * [string.cpp: 使用string类](complex_type/string.cpp)
 * [string_add.cpp: string 赋值，相加](complex_type/string_add.cpp)
+* [strcat_cpy.cpp: 字符串复制，附加](complex_type/strcat_cpy.cpp)
 
 
 * [.cpp: 模板](complex_type/.cpp)
