@@ -5,7 +5,8 @@ C++语言教程
 
 ## 文件说明
 
-[first: 初次接触C++](https://gitee.com/cpu_code/ccourse/blob/master/first)
+test:
+[first: 初次接触C++](first)
 
 * [hello.cpp: 输出信息](https://gitee.com/cpu_code/ccourse/blob/master/first/hello.cpp)
 * [first.cpp: 输出](https://gitee.com/cpu_code/ccourse/blob/master/first/first.cpp)
