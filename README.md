@@ -62,6 +62,8 @@ C++语言教程：C语言的扩展、数组、string、结构体、指针、枚�
 * [string_add.cpp: string 赋值，相加](complex_type/string_add.cpp)
 * [strcat_cpy.cpp: 字符串复制，附加](complex_type/strcat_cpy.cpp)
 * [string_input.cpp: 数组和string的长度问题](complex_type/string_input.cpp)
+* [structur.cpp: 结构体](complex_type/structur.cpp)
+
 
 * [.cpp: 模板](complex_type/.cpp)
 
