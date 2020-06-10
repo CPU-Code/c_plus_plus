@@ -82,7 +82,8 @@ C++语言教程：C语言的扩展、数组、string、结构体、指针、枚�
 
 ### [class: 类](class)
 
-* [class_interface.h：类接口](class/class_interface.h)
-* [class_interface.cpp：类实现](class/class_interface.cpp)
-* [use_class.cpp：类使用](class/use_class.cpp)
+#### [class](class/class)
+* [class_interface.h：类接口](class/class/class_interface.h)
+* [class_interface.cpp：类实现](class/class/class_interface.cpp)
+* [use_class.cpp：类使用](class/class/use_class.cpp)
 
