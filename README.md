@@ -5,7 +5,7 @@ C++语言教程：C语言的扩展、数组、string、结构体、指针、枚�
 
 ## 文件说明
 
-[first: 初次接触C++](first)
+### [first: 初次接触C++](first)
 
 * [hello.cpp: 输出信息](first/hello.cpp)
 * [first.cpp: 输出](first/first.cpp)
@@ -24,12 +24,9 @@ C++语言教程：C语言的扩展、数组、string、结构体、指针、枚�
 * [transmit.cpp: 参数传递](first/transmit.cpp)
 * [p_quote.cpp: 指针引用](first/p_quote.cpp)
 * [const_quote.cpp: 常数引用](first/const_quote.cpp)
- 
-
-* [.cpp: 模板](first/.cpp)
 
 
-[type: 数据类型](type)
+### [type: 数据类型](type)
 
 * [length.cpp: 数据长度](type/length.cpp)
 * [exceed.cpp: 溢出](type/exceed.cpp)
@@ -47,10 +44,7 @@ C++语言教程：C语言的扩展、数组、string、结构体、指针、枚�
 * [strong_turn.cpp: 强制转换](type/strong_turn.cpp)
 
 
-* [.cpp: 模板](type/.cpp)
-
-
-[complex_type: 复合类型](complex_type)
+### [complex_type: 复合类型](complex_type)
 
 * [array.cpp: 数组](complex_type/array.cpp)
 * [strlen.cpp: 静态数组，strlen计算长度](complex_type/strlen.cpp)
@@ -66,13 +60,12 @@ C++语言教程：C语言的扩展、数组、string、结构体、指针、枚�
 * [assgn_st.cpp: 结构体赋值](complex_type/assgn_st.cpp)
 * [arrstruct.cpp: 结构体数组](complex_type/arrstruct.cpp)
 * [address.cpp: &运算符查找地址](complex_type/address.cpp)
+* [pointer.cpp: 指针的使用](complex_type/pointer.cpp)
 
 
-[class: 类](class)
+### [class: 类](class)
 
 * [class_interface.h：类接口](class/class_interface.h)
 * [class_interface.cpp：类实现](class/class_interface.cpp)
 * [use_class.cpp：类使用](class/use_class.cpp)
 
-
-* [.cpp: 模板](class/.cpp)
