@@ -72,6 +72,8 @@ C++语言教程：C语言的扩展、数组、string、结构体、指针、枚�
 * [init_ptr.cpp: 指针初始化为一个地址](complex_type/init_ptr.cpp)
 * [use_new.cpp: 获得并指定分配内存](complex_type/use_new.cpp)
 * [arraynew.cpp: 创建动态数组](complex_type/arraynew.cpp)
+* [addpntrs.cpp: 将数组名解释为地址](complex_type/addpntrs.cpp)
+
 
 
 ### [class: 类](class)
