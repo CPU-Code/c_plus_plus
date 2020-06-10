@@ -61,6 +61,7 @@ C++语言教程：C语言的扩展、数组、string、结构体、指针、枚�
 * [arrstruct.cpp: 结构体数组](complex_type/arrstruct.cpp)
 * [address.cpp: &运算符查找地址](complex_type/address.cpp)
 * [pointer.cpp: 指针的使用](complex_type/pointer.cpp)
+* [init_ptr.cpp: 指针初始化为一个地址](complex_type/init_ptr.cpp)
 
 
 ### [class: 类](class)
