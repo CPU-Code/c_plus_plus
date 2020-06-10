@@ -76,7 +76,7 @@ C++语言教程：C语言的扩展、数组、string、结构体、指针、枚�
 * [ptrstr.cpp: 数组和指针的关系](complex_type/ptrstr.cpp)
 * [newstrct.cpp: new创建结构体](complex_type/newstrct.cpp)
 * [delete.cpp: 释放内存后重新使用](complex_type/delete.cpp)
-
+* [maxtypes.cpp: 数组 结构 指针](complex_type/maxtypes.cpp)
 
 ### [class: 类](class)
 
