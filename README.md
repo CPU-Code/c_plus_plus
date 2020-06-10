@@ -74,7 +74,7 @@ C++语言教程：C语言的扩展、数组、string、结构体、指针、枚�
 * [arraynew.cpp: 创建动态数组](complex_type/arraynew.cpp)
 * [addpntrs.cpp: 将数组名解释为地址](complex_type/addpntrs.cpp)
 * [ptrstr.cpp: 数组和指针的关系](complex_type/ptrstr.cpp)
-
+* [newstrct.cpp: new创建结构体](complex_type/newstrct.cpp)
 
 ### [class: 类](class)
 
