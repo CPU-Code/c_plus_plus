@@ -94,3 +94,18 @@ C++语言教程：C语言的扩展、数组、string、结构体、指针、枚�
 * [stock.cpp：类实现](class/stock/stock.cpp)
 * [stock.h：类接口](class/stock/stock.h)
 
+#### [ob_array: 对象数组](class/ob_array)
+
+* [usestock.cpp：类使用](class/ob_array/usestock.cpp)
+* [stock.cpp：类实现](class/ob_array/stock.cpp)
+* [stock.h：类接口](class/ob_array/stock.h)
+
+
+### [introduction: 编程初学者入门训练](introduction)
+
+**牛客**的编程初学者入门训练，该专题为编程入门级别，适合大一大二同学使用，题目涉及编程基础语法，基本结构等，每道题带有练习模式和考试模式，可还原考试模式进行模拟，也可通过练习模式进行练习。
+
+
+* [printf.cpp：输出信息](introduction/printf.cpp)
+* [cout_V.cpp：输出v](introduction/cout_V.cpp)
+* [stock.h：类接口](introduction/.cpp)
