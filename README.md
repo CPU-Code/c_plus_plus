@@ -105,7 +105,16 @@ C++语言教程：C语言的扩展、数组、string、结构体、指针、枚�
 
 **牛客**的编程初学者入门训练，该专题为编程入门级别，适合大一大二同学使用，题目涉及编程基础语法，基本结构等，每道题带有练习模式和考试模式，可还原考试模式进行模拟，也可通过练习模式进行练习。
 
-
 * [printf.cpp：输出信息](introduction/printf.cpp)
 * [cout_V.cpp：输出v](introduction/cout_V.cpp)
-* [stock.h：类接口](introduction/.cpp)
+* [size.cpp: 有容乃大](introduction/size.cpp)
+* [conquer.cpp: 分而治之](introduction/conquer.cpp)
+* [plane.cpp: 小飞机](introduction/plane.cpp)
+* [base.cpp: 缩短二进制](introduction/base.cpp)
+* [decimalism.cpp: 十六进制转十进制](introduction/decimalism.cpp)
+* [printf_return.cpp: printf的返回值](introduction/printf_return.cpp)
+* [cin.cpp: 成绩输入输出](introduction/cin.cpp)
+* [cin_cout.cpp: 学生基本信息输入输出](introduction/cin_cout.cpp)
+* [char.cpp: 字符金字塔](introduction/char.cpp)
+* [ascii.cpp: ASCII码](introduction/ascii.cpp)
+
