@@ -1,8 +1,8 @@
 /*
  * @Author: cpu_code
  * @Date: 2020-05-29 11:06:09
- * @LastEditTime: 2020-05-29 11:14:06
- * @FilePath: \ccourse\2_type\4_base.cpp
+ * @LastEditTime: 2020-06-14 17:12:20
+ * @FilePath: \ccourse\type\base.cpp
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
  */ 
@@ -20,11 +20,11 @@ int main()
     cout << "Monsieur cuts a striking figure!"  << endl;
 
     cout << "chest == " << chest << " (decimal for 42)" << endl;
+
     cout << hex;      // manipulator for changing number base
-
     cout << "waist == " << waist << " (hexadecimal for 42)" << endl;
-    cout << oct;      // manipulator for changing number base
 
+    cout << oct;      // manipulator for changing number base
     cout << "inseam == " << inseam << " (octal for 42)" << endl;
     
     // cin.get();
