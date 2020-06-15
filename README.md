@@ -1,10 +1,11 @@
-
+<!--
  * @Author: cpu_code
  * @Date: 2020-05-28 20:59:09
- * @LastEditTime: 2020-06-10 12:37:09
+ * @LastEditTime: 2020-06-15 13:16:41
  * @FilePath: \ccourse\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
+--> 
 
 # C++_course
 
@@ -117,4 +118,12 @@ C++语言教程：C语言的扩展、数组、string、结构体、指针、枚�
 * [cin_cout.cpp: 学生基本信息输入输出](introduction/cin_cout.cpp)
 * [char.cpp: 字符金字塔](introduction/char.cpp)
 * [ascii.cpp: ASCII码](introduction/ascii.cpp)
+* [time_cout.cpp: 出生日期输入输出](introduction/time_cout.cpp)
+
+
+### [Coding_Interview: 程序员面试金典](Coding_Interview)
+
+* [class_add.cpp: 位运算，另类加法](Coding_Interview/class_add.cpp)
+* [find_word.cpp: 编程基础 字符串 哈希，词频统计](Coding_Interview/find_word.cpp)
+* [judge_max.cpp: 编程基础 位运算 思维，无判断max](Coding_Interview/judge_max.cpp)
 
