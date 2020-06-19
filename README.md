@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-05-28 20:59:09
- * @LastEditTime: 2020-06-18 22:31:04
+ * @LastEditTime: 2020-06-19 11:06:14
  * @FilePath: \ccourse\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
@@ -106,6 +106,28 @@ C++语言教程：C语言的扩展、数组、string、结构体、指针、枚�
 * [main.cpp：类使用](class/stack/main.cpp)
 * [stack.cpp：类实现](class/stack/stack.cpp)
 * [stack.h：类接口](class/stack/stack.h)
+
+
+### [use_class: 类](use_class)
+
+#### [mytime: 使用类描述时间](use_class/mytime)
+
+* [main.cpp：类使用](use_class/mytime/main.cpp)
+* [my_time.cpp：类实现](use_class/mytime/mytime.cpp)
+* [my_time.h：类接口](use_class/mytime/mytime.h)
+
+#### [operator_plus: 重载+](use_class/operator_plus)
+
+* [main.cpp：类使用](use_class/operator_plus/main.cpp)
+* [mytime.cpp：类实现](use_class/operator_plus/mytime.cpp)
+* [mytime.h：类接口](use_class/operator_plus/mytime.h)
+
+#### [operator: 重载*+-](use_class/operator)
+
+* [main.cpp：类使用](use_class/operator/main.cpp)
+* [mytime.cpp：类实现](use_class/operator/mytime.cpp)
+* [mytime.h：类接口](use_class/operator/mytime.h)
+
 
 
 ### [introduction: 编程初学者入门训练](introduction)
