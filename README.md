@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-05-28 20:59:09
- * @LastEditTime: 2020-06-19 11:06:14
+ * @LastEditTime: 2020-06-19 12:06:13
  * @FilePath: \ccourse\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
@@ -128,11 +128,15 @@ C++语言教程：C语言的扩展、数组、string、结构体、指针、枚�
 * [mytime.cpp：类实现](use_class/operator/mytime.cpp)
 * [mytime.h：类接口](use_class/operator/mytime.h)
 
+#### [friend: 友元](use_class/friend)
 
+* [main.cpp：类使用](use_class/friend/main.cpp)
+* [mytime.cpp：类实现](use_class/friend/mytime.cpp)
+* [mytime.h：类接口](use_class/friend/mytime.h)
 
 ### [introduction: 编程初学者入门训练](introduction)
 
-[**牛客**的编程初学者入门训练，该专题为编程入门级别，适合大一大二同学使用，题目涉及编程基础语法，基本结构等，每道题带有练习模式和考试模式，可还原考试模式进行模拟，也可通过练习模式进行练习。](https://www.nowcoder.com/ta/beginner-programmers)
+**牛客**的[编程初学者入门训练](https://www.nowcoder.com/ta/beginner-programmers)，该专题为编程入门级别，适合大一大二同学使用，题目涉及编程基础语法，基本结构等，每道题带有练习模式和考试模式，可还原考试模式进行模拟，也可通过练习模式进行练习。
 
 * [printf.cpp：输出信息](introduction/printf.cpp)
 * [cout_V.cpp：输出v](introduction/cout_V.cpp)
@@ -151,7 +155,7 @@ C++语言教程：C语言的扩展、数组、string、结构体、指针、枚�
 
 ### [Coding_Interview: 程序员面试金典](Coding_Interview)
 
-[本套编程题为CC150（《Cracking the Coding Interview程序员面试金典》）一书配套在线练习，共84题](https://www.nowcoder.com/ta/cracking-the-coding-interview)
+本套编程题为CC150（《[Cracking the Coding Interview程序员面试金典](https://www.nowcoder.com/ta/cracking-the-coding-interview)》）一书配套在线练习，共84题
 
 * [class_add.cpp: 位运算，另类加法](Coding_Interview/class_add.cpp)
 * [find_word.cpp: 编程基础 字符串 哈希，词频统计](Coding_Interview/find_word.cpp)
