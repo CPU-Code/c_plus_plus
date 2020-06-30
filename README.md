@@ -1,11 +1,17 @@
 <!--
  * @Author: cpu_code
- * @Date: 2020-05-28 20:59:09
- * @LastEditTime: 2020-06-19 12:06:13
+ * @Date: 2020-06-20 14:24:19
+ * @LastEditTime: 2020-06-30 12:58:58
  * @FilePath: \ccourse\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
 --> 
+ * @Author: cpu_code
+ * @Date: 2020-06-20 14:24:19
+ * @LastEditTime: 2020-06-20 22:02:57
+ * @FilePath: \ccourse\README.md
+ * @Gitee: https://gitee.com/cpu_code
+ * @CSDN: https://blog.csdn.net/qq_44226094
 
 # C++_course
 
@@ -83,25 +89,25 @@ C++语言教程：C语言的扩展、数组、string、结构体、指针、枚�
 
 ### [class: 类](class)
 
-#### [class: 基本类](class/class)
+[class: 基本类](class/class)
 
 * [class_interface.h：类接口](class/class/class_interface.h)
 * [class_interface.cpp：类实现](class/class/class_interface.cpp)
 * [use_class.cpp：类使用](class/class/use_class.cpp)
 
-#### [stock: 构造函数和析构函数](class/stock)
+[stock: 构造函数和析构函数](class/stock)
 
 * [usestock.cpp：类使用](class/stock/usestock.cpp)
 * [stock.cpp：类实现](class/stock/stock.cpp)
 * [stock.h：类接口](class/stock/stock.h)
 
-#### [ob_array: 对象数组](class/ob_array)
+[ob_array: 对象数组](class/ob_array)
 
 * [usestock.cpp：类使用](class/ob_array/usestock.cpp)
 * [stock.cpp：类实现](class/ob_array/stock.cpp)
 * [stock.h：类接口](class/ob_array/stock.h)
 
-#### [stack: 类使用栈](class/stack)
+[stack: 类使用栈](class/stack)
 
 * [main.cpp：类使用](class/stack/main.cpp)
 * [stack.cpp：类实现](class/stack/stack.cpp)
@@ -110,29 +116,64 @@ C++语言教程：C语言的扩展、数组、string、结构体、指针、枚�
 
 ### [use_class: 类](use_class)
 
-#### [mytime: 使用类描述时间](use_class/mytime)
+[mytime: 使用类描述时间](use_class/mytime)
 
 * [main.cpp：类使用](use_class/mytime/main.cpp)
 * [my_time.cpp：类实现](use_class/mytime/mytime.cpp)
 * [my_time.h：类接口](use_class/mytime/mytime.h)
 
-#### [operator_plus: 重载+](use_class/operator_plus)
+[operator_plus: 重载+](use_class/operator_plus)
 
 * [main.cpp：类使用](use_class/operator_plus/main.cpp)
 * [mytime.cpp：类实现](use_class/operator_plus/mytime.cpp)
 * [mytime.h：类接口](use_class/operator_plus/mytime.h)
 
-#### [operator: 重载*+-](use_class/operator)
+[operator: 重载*+-](use_class/operator)
 
 * [main.cpp：类使用](use_class/operator/main.cpp)
 * [mytime.cpp：类实现](use_class/operator/mytime.cpp)
 * [mytime.h：类接口](use_class/operator/mytime.h)
 
-#### [friend: 友元](use_class/friend)
+[friend: 友元](use_class/friend)
 
 * [main.cpp：类使用](use_class/friend/main.cpp)
 * [mytime.cpp：类实现](use_class/friend/mytime.cpp)
 * [mytime.h：类接口](use_class/friend/mytime.h)
+
+[randwalk: 重载终结](use_class/randwalk)
+
+* [main.cpp：类使用](use_class/randwalk/main.cpp)
+* [mytime.cpp：类实现](use_class/randwalk/mytime.cpp)
+* [mytime.h：类接口](use_class/randwalk/mytime.h)
+
+[stonewt: 类转换](use_class/stonewt)
+
+* [main.cpp：类使用](use_class/stonewt/main.cpp)
+* [mytime.cpp：类实现](use_class/stonewt/mytime.cpp)
+* [mytime.h：类接口](use_class/stonewt/mytime.h)
+
+[stonewt: 函数转换](use_class/stonewt)
+
+* [main.cpp：类使用](use_class/stonewt/main.cpp)
+* [mytime.cpp：类实现](use_class/stonewt/mytime.cpp)
+* [mytime.h：类接口](use_class/stonewt/mytime.h)
+
+
+### [class: 类分配](class)
+
+
+### [class: 类继承](class)
+
+### [class: 重用](class)
+
+### [class: 友元和异常](class)
+
+### [class: 模板库](class)
+
+### [class: 输入输出](class)
+
+### [class: C++新标准](class)
+
 
 ### [introduction: 编程初学者入门训练](introduction)
 
@@ -151,7 +192,7 @@ C++语言教程：C语言的扩展、数组、string、结构体、指针、枚�
 * [char.cpp: 字符金字塔](introduction/char.cpp)
 * [ascii.cpp: ASCII码](introduction/ascii.cpp)
 * [time_cout.cpp: 出生日期输入输出](introduction/time_cout.cpp)
-
+* [KIKI_calendar_class.cpp: 对象的日历类](introduction/KIKI_calendar_class.cpp)
 
 ### [Coding_Interview: 程序员面试金典](Coding_Interview)
 
