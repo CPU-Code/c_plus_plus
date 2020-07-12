@@ -1,26 +1,46 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-06-20 14:24:19
- * @LastEditTime: 2020-06-30 12:58:58
+ * @LastEditTime: 2020-07-12 12:54:42
  * @FilePath: \ccourse\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
 --> 
- * @Author: cpu_code
+
+# C++_course
+
+* @Author: cpu_code
  * @Date: 2020-06-20 14:24:19
- * @LastEditTime: 2020-06-20 22:02:57
+ * @LastEditTime: 2020-07-12 12:54:04
  * @FilePath: \ccourse\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
 
-# C++_course
-
 ## 介绍
 C++语言教程：C语言的扩展、数组、string、结构体、指针、枚举、控制语句、函数、对象、类、继承、重用、友元、异常、STL
 
+--------------------------------
+
 ## 文件说明
 
-### [first: 初次接触C++](first)
+* [first__初次接触C++](#first__初次接触C++)
+* [type__数据类型](#type__数据类型)
+* [complex_type__复合类型](#complex_type__复合类型)
+* [class__类](#class__类)
+* [use_class__使用类](#use_class__使用类)
+* [class__类分配](#class__类分配)
+* [class__类继承](#class__类继承)
+* [class__重用](#class__重用)
+* [class__友元和异常](#class__友元和异常)
+* [class__模板库](#class__模板库)
+* [class__输入输出](#class__输入输出)
+* [class__C++新标准](#class__C++新标准)
+* [introduction__编程初学者入门训练](#introduction__编程初学者入门训练)
+* [Coding_Interview__程序员面试金典](#Coding_Interview__程序员面试金典)
+
+---------------------------------------------------------------------------
+
+## [first__初次接触C++](first)
 
 * [hello.cpp: 输出信息](first/hello.cpp)
 * [first.cpp: 输出](first/first.cpp)
@@ -40,8 +60,9 @@ C++语言教程：C语言的扩展、数组、string、结构体、指针、枚�
 * [p_quote.cpp: 指针引用](first/p_quote.cpp)
 * [const_quote.cpp: 常数引用](first/const_quote.cpp)
 
+--------------------
 
-### [type: 数据类型](type)
+## [type__数据类型](type)
 
 * [length.cpp: 数据长度](type/length.cpp)
 * [exceed.cpp: 溢出](type/exceed.cpp)
@@ -58,8 +79,9 @@ C++语言教程：C语言的扩展、数组、string、结构体、指针、枚�
 * [changes.cpp: 数字转换](type/changes.cpp)
 * [strong_turn.cpp: 强制转换](type/strong_turn.cpp)
 
+----------------
 
-### [complex_type: 复合类型](complex_type)
+## [complex_type__复合类型](complex_type)
 
 * [array.cpp: 数组](complex_type/array.cpp)
 * [strlen.cpp: 静态数组，strlen计算长度](complex_type/strlen.cpp)
@@ -86,8 +108,9 @@ C++语言教程：C语言的扩展、数组、string、结构体、指针、枚�
 * [maxtypes.cpp: 数组 结构 指针](complex_type/maxtypes.cpp)
 * [choices.cpp: 数组、vector对象和array对象](complex_type/choices.cpp)
 
+----------------------
 
-### [class: 类](class)
+## [class__类](class)
 
 [class: 基本类](class/class)
 
@@ -113,8 +136,9 @@ C++语言教程：C语言的扩展、数组、string、结构体、指针、枚�
 * [stack.cpp：类实现](class/stack/stack.cpp)
 * [stack.h：类接口](class/stack/stack.h)
 
+----------------------------
 
-### [use_class: 类](use_class)
+## [use_class__使用类](use_class)
 
 [mytime: 使用类描述时间](use_class/mytime)
 
@@ -142,40 +166,56 @@ C++语言教程：C语言的扩展、数组、string、结构体、指针、枚�
 
 [randwalk: 重载终结](use_class/randwalk)
 
-* [main.cpp：类使用](use_class/randwalk/main.cpp)
-* [mytime.cpp：类实现](use_class/randwalk/mytime.cpp)
-* [mytime.h：类接口](use_class/randwalk/mytime.h)
+* [randwalk.cpp：类使用](use_class/randwalk/randwalk.cpp)
+* [vect.cpp：类实现](use_class/randwalk/vect.cpp)
+* [vect.h：类接口](use_class/randwalk/vect.h)
 
 [stonewt: 类转换](use_class/stonewt)
 
-* [main.cpp：类使用](use_class/stonewt/main.cpp)
-* [mytime.cpp：类实现](use_class/stonewt/mytime.cpp)
-* [mytime.h：类接口](use_class/stonewt/mytime.h)
-
-[stonewt: 函数转换](use_class/stonewt)
-
-* [main.cpp：类使用](use_class/stonewt/main.cpp)
-* [mytime.cpp：类实现](use_class/stonewt/mytime.cpp)
-* [mytime.h：类接口](use_class/stonewt/mytime.h)
+* [stone.cpp：类使用](use_class/stonewt/stone.cpp)
+* [stonewt.cpp：类实现](use_class/stonewt/stonewt.cpp)
+* [stonewt.h：类接口](use_class/stonewt/stonewt.h)
 
 
-### [class: 类分配](class)
+
+--------------------
+
+## [class__类分配](class)
 
 
-### [class: 类继承](class)
+---------------------
 
-### [class: 重用](class)
-
-### [class: 友元和异常](class)
-
-### [class: 模板库](class)
-
-### [class: 输入输出](class)
-
-### [class: C++新标准](class)
+## [class__类继承](class)
 
 
-### [introduction: 编程初学者入门训练](introduction)
+--------------------------
+
+## [class__重用](class)
+
+
+-------------------------
+
+## [class__友元和异常](class)
+
+
+--------------------------
+
+## [class__模板库](class)
+
+
+-------------------
+
+## [class__输入输出](class)
+
+
+---------------------
+
+## [class__C++新标准](class)
+
+
+-------------------------
+
+## [introduction__编程初学者入门训练](introduction)
 
 **牛客**的[编程初学者入门训练](https://www.nowcoder.com/ta/beginner-programmers)，该专题为编程入门级别，适合大一大二同学使用，题目涉及编程基础语法，基本结构等，每道题带有练习模式和考试模式，可还原考试模式进行模拟，也可通过练习模式进行练习。
 
@@ -193,8 +233,12 @@ C++语言教程：C语言的扩展、数组、string、结构体、指针、枚�
 * [ascii.cpp: ASCII码](introduction/ascii.cpp)
 * [time_cout.cpp: 出生日期输入输出](introduction/time_cout.cpp)
 * [KIKI_calendar_class.cpp: 对象的日历类](introduction/KIKI_calendar_class.cpp)
+* [KiKi_highest_score.cpp: KiKi比较最大](introduction/KiKi_highest_score.cpp)
 
-### [Coding_Interview: 程序员面试金典](Coding_Interview)
+
+----------------------------------
+
+## [Coding_Interview__程序员面试金典](Coding_Interview)
 
 本套编程题为CC150（《[Cracking the Coding Interview程序员面试金典](https://www.nowcoder.com/ta/cracking-the-coding-interview)》）一书配套在线练习，共84题
 
