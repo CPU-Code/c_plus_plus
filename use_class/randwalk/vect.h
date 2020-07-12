@@ -1,7 +1,7 @@
 /*
  * @Author: cpu_code
  * @Date: 2020-06-19 12:18:37
- * @LastEditTime: 2020-06-19 12:20:59
+ * @LastEditTime: 2020-06-20 22:02:48
  * @FilePath: \ccourse\use_class\randwalk\vect.h
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
@@ -28,7 +28,7 @@ namespace VECTOR
         double ang;        // direction of vector in degrees
         Mode mode;         // RECT or POL
 
-    // private methods for setting values
+        // private methods for setting values
         void set_mag();
         void set_ang();
         void set_x();
@@ -37,8 +37,10 @@ namespace VECTOR
     public:
         Vector();
         Vector(double n1, double n2, Mode form = RECT);
-        void reset(double n1, double n2, Mode form = RECT);
         ~Vector();
+        
+        void reset(double n1, double n2, Mode form = RECT);
+
         double xval() const  // report x value
         {
             return x;
